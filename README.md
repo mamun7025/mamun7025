@@ -13,7 +13,7 @@ I possess strong leadership and architectural skills with wide breadth of techni
 
 ● Database: Oracle, MySQL, IBM DB2
 
-● BI and Report Tools: Hands on work experience on TIBCO Jasper Reports and Jasper Server
+● BI and Report Tools: Hands-on work experience on TIBCO Jasper Reports and Jasper Server
 
 ● Software Applications: POS, VAT, ERP, Datatex N.O.W Software, Formosa WMS, EDI (Electronic Data Interchange), Backup and Restore, Disaster Recovery.
 

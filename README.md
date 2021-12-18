@@ -7,5 +7,4 @@
 - 💬 Ask me about Programming Languages and reporting tools
 - 📫 How to reach me: mamun7025@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Loking for online based jobs to make money by working home
--->
+- ⚡ Fun fact: Loking for online based jobs to make money by working from home

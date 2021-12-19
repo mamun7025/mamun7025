@@ -1,5 +1,5 @@
 ## Al-Mamun
-### ERP Project Manager || Full-Stack Developer || ERP Software Developer || Digital Transformation
+### SpringBoot || Angular || Full-Stack Developer || Digital Transformation
 - 🔭 I’m currently working on HRMS software
 - 🌱 I’m currently learning AWS, Microsrvice
 - 👯 I’m looking to collaborate on github

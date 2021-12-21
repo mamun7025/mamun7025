@@ -1,6 +1,6 @@
 ### Hi there 👋, Md. Al Mamun
 #### SpringBoot || Angular || Full-Stack Developer || Digital Transformation
-!(https://tenor.com/view/code-coding-flying-through-code-e22-hacking-gif-15826314)
+
 
 System Architect with 6+ years experience of integrating business process with Technology Tools. I have worked as a Full-Stack developer in ERP and digital transformation area in the industry and manage development team.
 

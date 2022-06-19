@@ -1,7 +1,7 @@
 ![SpringBoot || Angular || Full-Stack Developer || Digital Transformation](https://t3.ftcdn.net/jpg/03/52/39/00/360_F_352390061_Bem8aYkzfGhIObTC4fXhf0PmKQjWM1wN.jpg)
 
 ## Al  Mamun
-It's Al Mamun, from Bangladesh. System Architect with 6+ years experience of integrating business process with Technology Tools. I have worked as a Full-Stack developer in ERP and digital transformation area in the industry and manage development team.
+It's Al Mamun, from Bangladesh, currently staying in UAE. System Architect with 6+ years experience of integrating business process with Technology Tools. I have worked as a Full-Stack developer in ERP and digital transformation area in the industry and manage development team.
 
 ## Languages and Tools
 <p align="center"> 

@@ -35,8 +35,8 @@ It's Al Mamun, from Bangladesh, currently staying in UAE. Software developer wit
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ##
-- 🔭 I’m currently working on HRMS software development 
-- 🌱 I’m currently learning AWS 
+- 🔭 I’m currently working on SME Banking application development
+- 🌱 I’m currently learning Azure Cloud 
 - 📫 How to reach me: mamun7025@gmail.com 
 
 

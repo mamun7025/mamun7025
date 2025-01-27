@@ -22,9 +22,11 @@ It's Al Mamun, from Bangladesh, currently staying in UAE. Software developer wit
 
 
 ## Skills
-* Java EE
+* Java
 * Spring Boot
 * Microservice
+* Docker and Kubernetes
+* IBM Api Connect and API Management
 * Groovy and Grails 
 * Angular
 * Jasper Report and Jasper Server

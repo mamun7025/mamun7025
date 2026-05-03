@@ -12,10 +12,10 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
 
 ### 🚀 Quick Links
 <p align="left">
-  <a href="https://mamun7025.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-red?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://mamun7025.github.io/cv/index.html" target="_blank"><img src="https://img.shields.io/badge/-Online%20CV-blue?style=for-the-badge&logo=read-the-docs&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/al-mamun-sa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mdalmamun7025@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mamun7025.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
+  <a href="https://mamun7025.github.io/cv/index.html" target="_blank"><img src="https://img.shields.io/badge/-Online%20CV-lightgrey?style=for-the-badge&logo=read-the-docs&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/al-mamun-sa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-lightgrey?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:mdalmamun7025@gmail.com"><img src="https://img.shields.io/badge/-Email-lightgrey?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 ---
@@ -24,30 +24,37 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
 
 #### 🔙 Backend & Core
 <p align="left">
-  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" /> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring" /> </a>
-  <a href="https://hibernate.org/" target="_blank"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate" /> </a>
-  <a href="https://microservices.io/" target="_blank"> <img src="https://img.shields.io/badge/Microservices-FF9900?style=for-the-badge" alt="microservices" /> </a>
-  <a href="https://groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Groovy%20%26%20Grails-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="groovy" /> </a>
+  <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-lightgrey?style=for-the-badge&logo=java&logoColor=black" alt="java" /> </a>
+  <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring_Boot-lightgrey?style=for-the-badge&logo=spring-boot&logoColor=black" alt="spring" /> </a>
+  <a href="https://hibernate.org/" target="_blank"> <img src="https://img.shields.io/badge/Hibernate-lightgrey?style=for-the-badge&logo=hibernate&logoColor=black" alt="hibernate" /> </a>
+  <a href="https://microservices.io/" target="_blank"> <img src="https://img.shields.io/badge/Microservices-lightgrey?style=for-the-badge" alt="microservices" /> </a>
+  <a href="https://groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Groovy%20%26%20Grails-lightgrey?style=for-the-badge&logo=apache-groovy&logoColor=black" alt="groovy" /> </a>
 </p>
 
 #### 🎨 Frontend
 <p align="left">
-  <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" /> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a>
-  <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> </a>
+  <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/Angular-lightgrey?style=for-the-badge&logo=angular&logoColor=black" alt="angular" /> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-lightgrey?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a>
+  <a href="https://jquery.com/" target="_blank"> <img src="https://img.shields.io/badge/jQuery-lightgrey?style=for-the-badge&logo=jquery&logoColor=black" alt="jquery" /> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.shields.io/badge/HTML5-lightgrey?style=for-the-badge&logo=html5&logoColor=black" alt="html5" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-lightgrey?style=for-the-badge&logo=css3&logoColor=black" alt="css3" /> </a>
 </p>
 
-#### 🗄️ Database & DevOps
+#### 🗄️ Databases
 <p align="left">
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /> </a>
-  <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" /> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /> </a>
-  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> </a>
-  <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="kubernetes" /> </a>
-  <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws" /> </a>
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-lightgrey?style=for-the-badge&logo=postgresql&logoColor=black" alt="postgresql" /> </a>
+  <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-lightgrey?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=black" alt="mysql" /> </a>
+  <a href="https://www.microsoft.com/sql-server" target="_blank"> <img src="https://img.shields.io/badge/MSSQL-lightgrey?style=for-the-badge&logo=microsoft-sql-server&logoColor=black" alt="mssql" /> </a>
+  <a href="https://redis.io/" target="_blank"> <img src="https://img.shields.io/badge/Redis-lightgrey?style=for-the-badge&logo=redis&logoColor=black" alt="redis" /> </a>
+</p>
+
+#### ☁️ DevOps & Cloud
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-lightgrey?style=for-the-badge&logo=docker&logoColor=black" alt="docker" /> </a>
+  <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-lightgrey?style=for-the-badge&logo=kubernetes&logoColor=black" alt="kubernetes" /> </a>
+  <a href="https://aws.amazon.com" target="_blank"> <img src="https://img.shields.io/badge/AWS-lightgrey?style=for-the-badge&logo=amazon-aws&logoColor=black" alt="aws" /> </a>
+  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://img.shields.io/badge/Azure-lightgrey?style=for-the-badge&logo=microsoft-azure&logoColor=black" alt="azure" /> </a>
 </p>
 
 ---
@@ -75,8 +82,8 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
 
 ### 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamun7025&show_icons=true&theme=radical" alt="Al-Mamun's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun7025&layout=compact&theme=radical" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamun7025&show_icons=true&theme=flat" alt="Al-Mamun's GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun7025&layout=compact&theme=flat" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">

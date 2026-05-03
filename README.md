@@ -85,17 +85,3 @@ Results-driven **Senior Software Engineer** with **9+ years of experience** desi
 | 🥇 [**Best Debut Award**](https://mamun7025.github.io/assets/img/awards/Best%20Awards.jpeg) | Mashreq Bank | Q1 2023 |
 | 🌟 [**Fantastic 4 of the Month**](https://mamun7025.github.io/assets/img/awards/Champ08-2024%20final.jpg) | Mashreq Bank | Aug 2024 |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamun7025&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun7025&layout=compact&theme=default&hide_border=true" height="165" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mamun7025&color=0A66C2&style=flat-square&label=Profile+Views" />
-</p>

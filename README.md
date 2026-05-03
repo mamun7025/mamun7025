@@ -12,17 +12,18 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
 
 ### 🚀 Quick Links
 <p align="left">
-  <a href="https://mamun7025.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-powderblue?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <a href="https://mamun7025.github.io/cv/index.html" target="_blank"><img src="https://img.shields.io/badge/-Online%20CV-wheat?style=for-the-badge&logo=read-the-docs&logoColor=black" /></a>
-  <a href="https://www.linkedin.com/in/al-mamun-sa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-lightskyblue?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
-  <a href="mailto:mdalmamun7025@gmail.com"><img src="https://img.shields.io/badge/-Email-peachpuff?style=for-the-badge&logo=gmail&logoColor=black" /></a>
+  <a href="https://mamun7025.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-skyblue?style=for-the-badge&logo=googlechrome&logoColor=black" /></a>
+  <a href="https://github.com/mamun7025" target="_blank"><img src="https://img.shields.io/badge/-GitHub-skyblue?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://mamun7025.github.io/cv/index.html" target="_blank"><img src="https://img.shields.io/badge/-Online%20CV-skyblue?style=for-the-badge&logo=readthedocs&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/al-mamun-sa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-skyblue?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
+  <a href="mailto:mdalmamun7025@gmail.com"><img src="https://img.shields.io/badge/-Email-skyblue?style=for-the-badge&logo=gmail&logoColor=black" /></a>
 </p>
 
 ---
 
 ### 🛠️ Technical Stack
 
-#### 🔙 Backend & Core
+#### <img src="https://img.shields.io/badge/-Backend-skyblue?style=flat-square&logoColor=black" />
 <p align="left">
   <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/Java-lightsalmon?style=for-the-badge&logo=java&logoColor=black" alt="java" /> </a>
   <a href="https://spring.io/" target="_blank"> <img src="https://img.shields.io/badge/Spring_Boot-lightgreen?style=for-the-badge&logo=spring-boot&logoColor=black" alt="spring" /> </a>
@@ -31,7 +32,7 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
   <a href="https://groovy-lang.org/" target="_blank"> <img src="https://img.shields.io/badge/Groovy%20%26%20Grails-palegoldenrod?style=for-the-badge&logo=apache-groovy&logoColor=black" alt="groovy" /> </a>
 </p>
 
-#### 🎨 Frontend
+#### <img src="https://img.shields.io/badge/-Frontend-skyblue?style=flat-square&logoColor=black" />
 <p align="left">
   <a href="https://angular.io" target="_blank"> <img src="https://img.shields.io/badge/Angular-lightpink?style=for-the-badge&logo=angular&logoColor=black" alt="angular" /> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-khaki?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" /> </a>
@@ -40,7 +41,7 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.shields.io/badge/CSS3-powderblue?style=for-the-badge&logo=css3&logoColor=black" alt="css3" /> </a>
 </p>
 
-#### 🗄️ Databases
+#### <img src="https://img.shields.io/badge/-Databases-skyblue?style=flat-square&logoColor=black" />
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-lightsteelblue?style=for-the-badge&logo=postgresql&logoColor=black" alt="postgresql" /> </a>
   <a href="https://www.oracle.com/" target="_blank"> <img src="https://img.shields.io/badge/Oracle-lightpink?style=for-the-badge&logo=oracle&logoColor=black" alt="oracle" /> </a>
@@ -49,7 +50,7 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
   <a href="https://redis.io/" target="_blank"> <img src="https://img.shields.io/badge/Redis-mistyrose?style=for-the-badge&logo=redis&logoColor=black" alt="redis" /> </a>
 </p>
 
-#### ☁️ DevOps & Cloud
+#### <img src="https://img.shields.io/badge/-DevOps_&_Cloud-skyblue?style=flat-square&logoColor=black" />
 <p align="left">
   <a href="https://www.docker.com/" target="_blank"> <img src="https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker&logoColor=black" alt="docker" /> </a>
   <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.shields.io/badge/Kubernetes-lightskyblue?style=for-the-badge&logo=kubernetes&logoColor=black" alt="kubernetes" /> </a>
@@ -75,24 +76,7 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
 ---
 
 ### 🏆 Awards & Recognition
-- 🎖️ [**BEST DEBUT AWARD**](https://mamun7025.github.io/assets/img/awards/Best%20Awards.jpeg) (Q1-2023) - Mashreq Bank
-- 🎖️ [**FANTASTIC 4 OF THE MONTH**](https://mamun7025.github.io/assets/img/awards/Champ08-2024%20final.jpg) (Aug-2024) - Mashreq Bank
+- <img src="https://img.shields.io/badge/-Award-skyblue?style=flat-square&logoColor=black" /> [**BEST DEBUT AWARD**](https://mamun7025.github.io/assets/img/awards/Best%20Awards.jpeg) (Q1-2023) - Mashreq Bank
+- <img src="https://img.shields.io/badge/-Award-skyblue?style=flat-square&logoColor=black" /> [**FANTASTIC 4 OF THE MONTH**](https://mamun7025.github.io/assets/img/awards/Champ08-2024%20final.jpg) (Aug-2024) - Mashreq Bank
 
 ---
-
-[//]: # (### 📊 GitHub Stats)
-
-[//]: # (<p align="left">)
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=mamun7025&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Al-Mamun's GitHub stats" height="170" />)
-
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun7025&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" height="170" />)
-
-[//]: # (</p>)
-
-[//]: # ()
-[//]: # (<p align="center">)
-
-[//]: # (  <img src="https://gpvc.arturio.dev/mamun7025" alt="Profile views" />)
-
-[//]: # (</p>)

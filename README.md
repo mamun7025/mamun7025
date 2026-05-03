@@ -80,12 +80,19 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mamun7025&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Al-Mamun's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun7025&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" height="170" />
-</p>
+[//]: # (### 📊 GitHub Stats)
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/mamun7025" alt="Profile views" />
-</p>
+[//]: # (<p align="left">)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=mamun7025&show_icons=true&theme=buefy&count_private=true&hide_border=true" alt="Al-Mamun's GitHub stats" height="170" />)
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mamun7025&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" height="170" />)
+
+[//]: # (</p>)
+
+[//]: # ()
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://gpvc.arturio.dev/mamun7025" alt="Profile views" />)
+
+[//]: # (</p>)

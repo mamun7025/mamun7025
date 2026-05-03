@@ -61,22 +61,22 @@ I am a results-driven **Senior Software Engineer** with over **9 years of experi
 
 ### 💼 Professional Experience
 
-- **Senior Software Developer** @ **myZoi Financial Inclusion Technologies** (Standard Chartered Ventures)
+- **Senior Software Developer** @ [**myZoi**](https://www.myzoi.com/) (Standard Chartered Ventures)
   - Developing high-concurrency payment systems for Cross-Border transfers.
   - Building "Early Wage Access" modules and managing digital wallet logic.
-- **Senior Software Developer** @ **Mashreq Bank**, Dubai
+- **Senior Software Developer** @ [**Mashreq Bank**](https://www.mashreqbank.com/), Dubai
   - Architected SME Banking modules: Bill Payments, Transaction Queues, and Auto-Pay.
   - Implemented Hard Token and TwoFA SDKs for enhanced security.
-- **Lead Software Engineer** @ **Walton Group**, Bangladesh
-  - Led the development of HRMS and POS/VAT applications integrated with Oracle EBS.
-- **Software Engineer** @ **Emirates Flight Catering**, Dubai
+- **Software Developer** @ [**Emirates Flight Catering**](https://www.emiratesflightcatering.com/), Dubai (Contract via [**Raqmiyat**](https://raqmiyat.com))
   - Developed full-stack features for Foodcraft CMS and FSMS systems.
+- **Lead Software Engineer** @ [**Walton Group**](https://waltonbd.com/), Bangladesh
+  - Led the development of HRMS and POS/VAT applications integrated with Oracle EBS.
 
 ---
 
 ### 🏆 Awards & Recognition
-- 🎖️ **BEST DEBUT AWARD** (Q1-2023) - Mashreq Bank
-- 🎖️ **FANTASTIC 4 OF THE MONTH** (Aug-2024) - Mashreq Bank
+- 🎖️ [**BEST DEBUT AWARD**](https://mamun7025.github.io/assets/img/awards/Best%20Awards.jpeg) (Q1-2023) - Mashreq Bank
+- 🎖️ [**FANTASTIC 4 OF THE MONTH**](https://mamun7025.github.io/assets/img/awards/Champ08-2024%20final.jpg) (Aug-2024) - Mashreq Bank
 
 ---
 
